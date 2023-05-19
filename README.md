@@ -19,6 +19,7 @@ When executed, the following actions will occur:
 - a browser window will be opened.
 - The text "Hello, World" will be rendered in the the browser window.
 
+*Note: HTTPS (Hypertext Transfer Protocol Secure) is not included currently*
 
 validate.go
 -----
